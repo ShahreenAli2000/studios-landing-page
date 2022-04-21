@@ -31,8 +31,8 @@ Do checkout design folder to completing the challenge.
 
 ### Links
 
-- Solution URL: [Link](https://www.frontendmentor.io/solutions/loopstudios-landing-page-JfihYNgNb)
-- Live Site URL: [Link](https://ShahreenAli2000/Studio-landing-page/)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/responsive-landing-page-using-bootstrap-HktrybkBq)
+- Live Site URL: [Link](https://shahreenali2000.github.io/studios-landing-page/)
 
 ### Built with
 
